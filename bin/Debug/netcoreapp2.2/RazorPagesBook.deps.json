@@ -8,7 +8,7 @@
       "TRACE",
       "DEBUG",
       "NETCOREAPP",
-      "NETCOREAPP2_2"
+      "NETCOREAPP2_3"
     ],
     "languageVersion": "",
     "platform": "",
