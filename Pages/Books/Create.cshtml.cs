@@ -27,7 +27,7 @@ namespace RazorPagesBook.Pages.Books
         public Book Book { get; set; }
 
         public async Task<IActionResult> OnPostAsync()
-        {
+         {
             if (!ModelState.IsValid)
             {
                 return Page();
